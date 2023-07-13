@@ -1,7 +1,7 @@
 {
   "name": "meu-portfolio",
   "private": true,
-  "homepage": "https://lennon93.github.io/",
+  "homepage": "https://lennon93.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
