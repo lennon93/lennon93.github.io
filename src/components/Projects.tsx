@@ -35,13 +35,13 @@ import rtl from '../assets/rtl.jpeg'
               </div>
               <div className="justify-center card-actions">
                 <div className="flex flex-col w-24">
-                <button
-                  type="button"
-                  className="flex items-center justify-center px-6 py-2 mb-4 text-sm font-bold text-center text-gray-200 bg-orange-500 rounded-lg"
-                  onClick={() => window.location.href = 'https://github.com/lennon93/trybe-futebol-clube-project'}
-                >
-                  Repositório
-                </button>
+                  <button
+                    type="button"
+                    className="flex items-center justify-center px-6 py-2 mb-4 text-sm font-bold text-center text-gray-200 bg-orange-500 rounded-lg"
+                    onClick={() => window.open('https://github.com/lennon93/trybe-futebol-clube-project', '_blank')}
+                  >
+                    Repositório
+                  </button>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@ Esse projeto é uma introdução ao Python, criando vários algoritmos de busca 
                 <button
                   type="button"
                   className="flex items-center justify-center px-6 py-2 mb-4 text-sm font-bold text-center text-gray-200 bg-orange-500 rounded-lg"
-                  onClick={() => window.location.href = 'https://github.com/lennon93/python-algoritms'}
+                  onClick={() => window.open('https://github.com/lennon93/python-algoritms', '_blank')}
                 >
                   Repositório
                 </button>
@@ -113,7 +113,7 @@ Esse projeto é uma introdução ao Python, criando vários algoritmos de busca 
                 <button
                   type="button"
                   className="flex items-center justify-center px-6 py-2 mb-4 text-sm font-bold text-center text-gray-200 bg-orange-500 rounded-lg"
-                  onClick={() => window.location.href = 'https://github.com/lennon93/react-testing-library'}
+                  onClick={() => window.open('https://github.com/lennon93/react-testing-library', '_blank')}
                 >
                   Repositório
                 </button>
@@ -153,7 +153,7 @@ Esse projeto é uma introdução ao Python, criando vários algoritmos de busca 
                 <button
                   type="button"
                   className="flex items-center justify-center px-6 py-2 mb-4 text-sm font-bold text-center text-gray-200 bg-orange-500 rounded-lg"
-                  onClick={() => window.location.href = 'https://github.com/lennon93/trybesmith-project'}
+                  onClick={() => window.open('https://github.com/lennon93/trybesmith-project', '_blank')}
                 >
                   Repositório
                 </button>
