@@ -19,7 +19,7 @@ import rtl from '../assets/rtl.jpeg'
             <div className="flex flex-col items-center p-2 ">
               <h2 className="mb-4 font-bold text-center text-gray-200">Trybe Futebol Clube</h2>
               <div className="p-2 overflow-y-auto max-h-52">
-              <p className="text-center text-gray-200">Esse projeto é um site esportivo que mostra as partidas em andamento e encerradas, uma tabela de classificação que é atualizada automaticamente quando a partida se encerra, podendo fazer login como administrador para atualizar as partidas, com gols feitos e/ou encerrado elas, assim como criar novas partidas.</p>
+              <p className="text-center text-gray-200">Esse projeto é um site esportivo que exibe partidas em andamento e encerradas, com uma tabela de classificação atualizada automaticamente após o término dos jogos. É possivel fazer login e atualizar os resultados, adicionando gols e encerrando partidas, além de criar novas partidas.</p>
               </div>
             </div>
             <div className="flex items-center justify-around w-full p-2 ">
@@ -57,8 +57,7 @@ import rtl from '../assets/rtl.jpeg'
             <div className="flex flex-col items-center p-2 ">
               <h2 className="mb-4 font-bold text-center text-gray-200">Python Algorithms</h2>
               <div className="p-2 overflow-y-auto max-h-52">
-              <p className="text-center text-gray-200">Python é uma linguagem de programação que busca simplicidade em sua sintaxe, resultando assim em legibilidade do código e maior produtividade. Seu interpretador pode ser executado em diversos sistemas operacionais.
-Esse projeto é uma introdução ao Python, criando vários algoritmos de busca e de ordenação de dados, utilizando do pytest para testar esses algoritmos e do flake8</p>
+              <p className="text-center text-gray-200">Python é uma linguagem de programação conhecida pela simplicidade de sua sintaxe, o que torna o código mais legível e aumenta a produtividade. Seu interpretador é compatível com vários sistemas operacionais. Neste projeto, faremos uma introdução ao Python, implementando algoritmos de busca e ordenação de dados. Utilizaremos o pytest para testar esses algoritmos e o flake8 para garantir a qualidade do código</p>
               </div>
             </div>
             <div className="flex items-center justify-around w-full p-2 ">
@@ -93,7 +92,7 @@ Esse projeto é uma introdução ao Python, criando vários algoritmos de busca 
             <div className="flex flex-col items-center p-2 ">
               <h2 className="mb-4 font-bold text-center text-gray-200">React Testing Library</h2>
               <div className="p-2 overflow-y-auto max-h-52">
-              <p className="text-center text-gray-200">Esse projeto é uma pokedex já pronta, fornecida pela Trybe que mostra alguns Pokémon, podendo filtrar eles por tipo e favorita-los. O que foi feito? Foi exercitado ss conhecimentos sobre testes automatizados escrevendo testes para uma aplicação React. Foi criado todos os testes para cada requisito implementado na Pokédex, garantindo assim sua corretude.</p>
+              <p className="text-center text-gray-200">Esse projeto é uma pokedex pronta, fornecida pela Trybe, que exibe informações sobre alguns Pokémon, permitindo filtrá-los por tipo e adicioná-los aos favoritos. Durante o desenvolvimento, foram aplicados conhecimentos sobre testes automatizados, criando testes para cada requisito implementado na Pokédex. Isso garantiu a corretude da aplicação React e a qualidade do projeto.</p>
               </div>
             </div>
             <div className="flex items-center justify-around w-full p-2 ">
@@ -132,7 +131,7 @@ Esse projeto é uma introdução ao Python, criando vários algoritmos de busca 
             <div className="flex flex-col items-center p-2 ">
               <h2 className="mb-4 font-bold text-center text-gray-200">TrybeSmith</h2>
               <div className="p-2 overflow-y-auto max-h-52">
-              <p className="text-center text-gray-200">Esse projeto é uma API de criação e gerenciamento de pedidos, produtos e seus respectivos usuarios, com todo o backend para gerenciar o banco de dados e envia-los ao frontend. Foi criado o container com o docker para abrigar o projeto, então foi criado os modelos para acessar esse banco utilizando um ORM chamado Sequelize.</p>
+              <p className="text-center text-gray-200">Esse projeto consiste em uma API para criação e gerenciamento de pedidos, produtos e usuários, com todo o backend responsável pelo gerenciamento do banco de dados e envio de informações ao frontend. Utilizamos o Docker para criar um container para o projeto e desenvolvemos modelos para acessar o banco de dados por meio do ORM Sequelize.</p>
               </div>
             </div>
             <div className="flex items-center justify-around w-full p-2 ">
