@@ -5,7 +5,8 @@ import SwiperCore, { Navigation } from 'swiper';
 import certificado1 from '../assets/certificado_page-0001.jpg';
 import certificado2 from '../assets/certificado2_page-0001.jpg';
 import certificado3 from '../assets/certificadoCienciadeDados_page-0001.jpg';
-import certificado4 from '../assets/img20230712_23213802_page-0001.jpg'
+import certificado4 from '../assets/img20230712_23213802_page-0001.jpg';
+import certificado5 from '../assets/certificado5.jpg';
 
 SwiperCore.use([Navigation]);
 
@@ -27,6 +28,9 @@ SwiperCore.use([Navigation]);
         </SwiperSlide>
         <SwiperSlide className="flex h-auto ">
           <a href="https://www.linkedin.com/in/lennon-xavier/details/certifications/"><img src={certificado4} className='p-8' alt="" /></a>
+        </SwiperSlide>
+        <SwiperSlide className="flex h-auto ">
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7095106189914468352/"><img src={certificado5} className='p-8' alt="" /></a>
         </SwiperSlide>
         <SwiperSlide className="flex h-auto ">
           <a href=""><img src={certificado3} className='p-8' alt="" /></a>
