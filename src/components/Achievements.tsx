@@ -6,7 +6,8 @@ import certificado1 from '../assets/certificado_page-0001.jpg';
 import certificado2 from '../assets/certificado2_page-0001.jpg';
 import certificado4 from '../assets/img20230712_23213802_page-0001.jpg';
 import certificado5 from '../assets/certificado5.jpg';
-import certificado6 from '../assets/kj1iar0g_1694647742879_page-0001.jpg'
+import certificado6 from '../assets/kj1iar0g_1694647742879_page-0001.jpg';
+import certificado7 from '../assets/05B7FAB7_page-0001.jpg';
 
 SwiperCore.use([Navigation]);
 
@@ -34,6 +35,9 @@ SwiperCore.use([Navigation]);
         </SwiperSlide>
         <SwiperSlide className="flex h-auto ">
           <a href="https://www.linkedin.com/in/lennon-xavier/details/certifications/"><img src={certificado4} className='p-8' alt="" /></a>
+        </SwiperSlide>
+        <SwiperSlide className="flex h-auto ">
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7121160123405729793/"><img src={certificado7} className='p-8' alt="" /></a>
         </SwiperSlide>
       </Swiper>
     </div>
