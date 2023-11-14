@@ -8,6 +8,7 @@ import certificado4 from '../assets/img20230712_23213802_page-0001.jpg';
 import certificado5 from '../assets/certificado5.jpg';
 import certificado6 from '../assets/kj1iar0g_1694647742879_page-0001.jpg';
 import certificado7 from '../assets/05B7FAB7_page-0001.jpg';
+import certificado8 from '../assets/cert_page-0001.jpg';
 
 SwiperCore.use([Navigation]);
 
@@ -21,6 +22,9 @@ SwiperCore.use([Navigation]);
           navigation
           className="p-2"
       >
+        <SwiperSlide className="flex h-auto ">
+          <a href="https://www.linkedin.com/feed/updathttps://www.linkedin.com/feed/update/urn:li:activity:7128728863328657408/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7128728862724677632%2C7129994021984219136)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7129994021984219136%2Curn%3Ali%3AugcPost%3A7128728862724677632)e/urn:li:activity:7006649793703743488/"><img src={certificado8} className='p-8' alt="" /></a>
+        </SwiperSlide>
         <SwiperSlide className="flex h-auto ">
           <a href="https://www.linkedin.com/feed/update/urn:li:activity:7006649793703743488/"><img src={certificado2} className='p-8' alt="" /></a>
         </SwiperSlide>
